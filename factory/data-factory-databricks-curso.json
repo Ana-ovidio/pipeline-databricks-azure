@@ -1,0 +1,9 @@
+{
+	"name": "data-factory-databricks-curso",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "bace63de-02a8-485b-b8c7-4c75d2e0ce42",
+		"tenantId": "36d9e324-93c1-4e3c-8a3a-f7c4718085ec"
+	}
+}
